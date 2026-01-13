@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256179872642",
+    "project_id": "even-merge-bd037",
+    "firebase_url": "https://even-merge-bd037-default-rtdb.firebaseio.com/",
+    "storage_bucket": "even-merge-bd037.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256179872642:android:16c6551458d2c5e94c659b",
+        "android_client_info": {
+          "package_name": "com.TheGameWise.EvenMerge2048"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLZl7rpfk46CjIGipvZwU3tRv2iwrZbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

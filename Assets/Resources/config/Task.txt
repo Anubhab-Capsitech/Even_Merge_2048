@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 100101,
+    "Value": 500,
+    "Item": 5,
+    "Desc": "TXT_NO_40002"
+  },
+  {
+    "ID": 100102,
+    "Value": 200,
+    "Item": 5,
+    "Desc": "TXT_NO_40003"
+  },
+  {
+    "ID": 100103,
+    "Value": 10,
+    "Item": 5,
+    "Desc": "TXT_NO_40004"
+  },
+  {
+    "ID": 100104,
+    "Value": 1024,
+    "Item": 5,
+    "Desc": "TXT_NO_40005"
+  },
+  {
+    "ID": 100105,
+    "Value": 1,
+    "Item": 5,
+    "Desc": "TXT_NO_40006"
+  }
+]

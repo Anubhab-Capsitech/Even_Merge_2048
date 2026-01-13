@@ -1,0 +1,9 @@
+Name: OpenUPM
+URL: https://package.openupm.com
+Scopes: com.google
+
+
+
+✨Put progaurd text file into this location
+
+-Assets/Plugin/Android

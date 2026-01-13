@@ -1,0 +1,308 @@
+[
+  {
+    "ID": 100101,
+    "Type": 1,
+    "Next": 100102,
+    "Value": 5,
+    "Item": 5,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40015"
+  },
+  {
+    "ID": 100102,
+    "Type": 1,
+    "Next": 100103,
+    "Value": 10,
+    "Item": 10,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40016"
+  },
+  {
+    "ID": 100103,
+    "Type": 1,
+    "Next": 100104,
+    "Value": 15,
+    "Item": 20,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40017"
+  },
+  {
+    "ID": 100104,
+    "Type": 1,
+    "Next": 100105,
+    "Value": 20,
+    "Item": 40,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40018"
+  },
+  {
+    "ID": 100105,
+    "Type": 1,
+    "Next": 100106,
+    "Value": 25,
+    "Item": 60,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40019"
+  },
+  {
+    "ID": 100106,
+    "Type": 1,
+    "Next": 100107,
+    "Value": 30,
+    "Item": 100,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40020"
+  },
+  {
+    "ID": 100107,
+    "Type": 1,
+    "Next": 0,
+    "Value": 40,
+    "Item": 200,
+    "Title": "TXT_NO_40014",
+    "Desc": "TXT_NO_40021"
+  },
+  {
+    "ID": 100201,
+    "Type": 2,
+    "Next": 100202,
+    "Value": 1000,
+    "Item": 5,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40023"
+  },
+  {
+    "ID": 100202,
+    "Type": 2,
+    "Next": 100203,
+    "Value": 2000,
+    "Item": 10,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40024"
+  },
+  {
+    "ID": 100203,
+    "Type": 2,
+    "Next": 100204,
+    "Value": 5000,
+    "Item": 20,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40025"
+  },
+  {
+    "ID": 100204,
+    "Type": 2,
+    "Next": 100205,
+    "Value": 10000,
+    "Item": 100,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40026"
+  },
+  {
+    "ID": 100205,
+    "Type": 2,
+    "Next": 100206,
+    "Value": 20000,
+    "Item": 200,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40027"
+  },
+  {
+    "ID": 100206,
+    "Type": 2,
+    "Next": 0,
+    "Value": 50000,
+    "Item": 500,
+    "Title": "TXT_NO_40022",
+    "Desc": "TXT_NO_40028"
+  },
+  {
+    "ID": 100301,
+    "Type": 3,
+    "Next": 100302,
+    "Value": 10,
+    "Item": 5,
+    "Title": "TXT_NO_40029",
+    "Desc": "TXT_NO_40030"
+  },
+  {
+    "ID": 100302,
+    "Type": 3,
+    "Next": 100303,
+    "Value": 15,
+    "Item": 10,
+    "Title": "TXT_NO_40029",
+    "Desc": "TXT_NO_40031"
+  },
+  {
+    "ID": 100303,
+    "Type": 3,
+    "Next": 100304,
+    "Value": 20,
+    "Item": 20,
+    "Title": "TXT_NO_40029",
+    "Desc": "TXT_NO_40032"
+  },
+  {
+    "ID": 100304,
+    "Type": 3,
+    "Next": 100305,
+    "Value": 25,
+    "Item": 50,
+    "Title": "TXT_NO_40029",
+    "Desc": "TXT_NO_40033"
+  },
+  {
+    "ID": 100305,
+    "Type": 3,
+    "Next": 0,
+    "Value": 30,
+    "Item": 100,
+    "Title": "TXT_NO_40029",
+    "Desc": "TXT_NO_40034"
+  },
+  {
+    "ID": 100401,
+    "Type": 4,
+    "Next": 100402,
+    "Value": 5,
+    "Item": 50,
+    "Title": "TXT_NO_40035",
+    "Desc": "TXT_NO_40036"
+  },
+  {
+    "ID": 100402,
+    "Type": 4,
+    "Next": 100403,
+    "Value": 10,
+    "Item": 100,
+    "Title": "TXT_NO_40035",
+    "Desc": "TXT_NO_40037"
+  },
+  {
+    "ID": 100403,
+    "Type": 4,
+    "Next": 100404,
+    "Value": 20,
+    "Item": 200,
+    "Title": "TXT_NO_40035",
+    "Desc": "TXT_NO_40038"
+  },
+  {
+    "ID": 100404,
+    "Type": 4,
+    "Next": 100405,
+    "Value": 50,
+    "Item": 500,
+    "Title": "TXT_NO_40035",
+    "Desc": "TXT_NO_40039"
+  },
+  {
+    "ID": 100405,
+    "Type": 4,
+    "Next": 0,
+    "Value": 100,
+    "Item": 1000,
+    "Title": "TXT_NO_40035",
+    "Desc": "TXT_NO_40040"
+  },
+  {
+    "ID": 100501,
+    "Type": 5,
+    "Next": 100502,
+    "Value": 5000,
+    "Item": 20,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40042"
+  },
+  {
+    "ID": 100502,
+    "Type": 5,
+    "Next": 100503,
+    "Value": 10000,
+    "Item": 30,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40043"
+  },
+  {
+    "ID": 100503,
+    "Type": 5,
+    "Next": 100504,
+    "Value": 50000,
+    "Item": 50,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40044"
+  },
+  {
+    "ID": 100504,
+    "Type": 5,
+    "Next": 100505,
+    "Value": 100000,
+    "Item": 100,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40045"
+  },
+  {
+    "ID": 100505,
+    "Type": 5,
+    "Next": 100506,
+    "Value": 200000,
+    "Item": 200,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40046"
+  },
+  {
+    "ID": 100506,
+    "Type": 5,
+    "Next": 0,
+    "Value": 500000,
+    "Item": 300,
+    "Title": "TXT_NO_40041",
+    "Desc": "TXT_NO_40047"
+  },
+  {
+    "ID": 100601,
+    "Type": 6,
+    "Next": 100602,
+    "Value": 1024,
+    "Item": 5,
+    "Title": "TXT_NO_40054",
+    "Desc": "TXT_NO_40055"
+  },
+  {
+    "ID": 100602,
+    "Type": 6,
+    "Next": 100603,
+    "Value": 2048,
+    "Item": 10,
+    "Title": "TXT_NO_40054",
+    "Desc": "TXT_NO_40056"
+  },
+  {
+    "ID": 100603,
+    "Type": 6,
+    "Next": 100604,
+    "Value": 4096,
+    "Item": 20,
+    "Title": "TXT_NO_40054",
+    "Desc": "TXT_NO_40057"
+  },
+  {
+    "ID": 100604,
+    "Type": 6,
+    "Next": 100605,
+    "Value": 8192,
+    "Item": 100,
+    "Title": "TXT_NO_40054",
+    "Desc": "TXT_NO_40058"
+  },
+  {
+    "ID": 100605,
+    "Type": 6,
+    "Next": 0,
+    "Value": 16384,
+    "Item": 200,
+    "Title": "TXT_NO_40054",
+    "Desc": "TXT_NO_40059"
+  }
+]

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf0a9a39b27945a489b10ba3fb243614
+timeCreated: 1561645880
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "font_ru"
+  fontNames:
+  - PT Serif Caption
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

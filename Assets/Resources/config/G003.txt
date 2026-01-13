@@ -1,0 +1,51 @@
+[
+  {
+    "ID": 301,
+    "Lv": 0,
+    "Star": 1,
+    "Count": 15,
+    "Lang": "TXT_NO_40060"
+  },
+  {
+    "ID": 302,
+    "Lv": 1,
+    "Star": 2,
+    "Count": 35,
+    "Lang": "TXT_NO_40062"
+  },
+  {
+    "ID": 303,
+    "Lv": 2,
+    "Star": 3,
+    "Count": 50,
+    "Lang": "TXT_NO_40064"
+  },
+  {
+    "ID": 304,
+    "Lv": 3,
+    "Star": 3,
+    "Count": 50,
+    "Lang": "TXT_NO_40065"
+  },
+  {
+    "ID": 305,
+    "Lv": 4,
+    "Star": 4,
+    "Count": 50,
+    "Lang": "TXT_NO_40066"
+  },
+  {
+    "ID": 306,
+    "Lv": 5,
+    "Star": 4,
+    "Count": 50,
+    "Lang": "TXT_NO_40067"
+  },
+  {
+    "ID": 307,
+    "Lv": 6,
+    "Star": 5,
+    "Count": 50,
+    "Lang": "TXT_NO_40068"
+  }
+]
