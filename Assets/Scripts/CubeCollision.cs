@@ -100,7 +100,7 @@ public class CubeCollision : MonoBehaviour
                 newCube.CubeRigidbody.AddTorque(randomTorque, ForceMode.Impulse);
             }
 
-            if (popSound != null)
+            if (popSound != null && PersistentAudioManager.Instance.Switch_eff == 1)
                 popSound.Play();
 
             CubeSpawner.Instance.DestroyCube(cube);
